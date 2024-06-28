@@ -12,6 +12,6 @@
 ### 9. [Model Evaluation And Refinement:](https://github.com/GBOL67/DATA-SCIENCE-PROJECTS/blob/main/practice_model_evaluation%20(1).ipynb) Pandas,Numpy,Scikitlearn, Data Transformation, Data spliting, Cross Validation, Rigde Regression, GridSearch.
 ### 10. [K-Nearest Neigbour:](https://github.com/GBOL67/DATA-SCIENCE-PROJECTS/blob/main/ProjectForDataScience.ipynb) Pandas,Numpy,Scikitlearn, confusion matrix, Jaccard index, F1-score.
 ### 11. [Decision Tree:](https://github.com/GBOL67/DATA-SCIENCE-PROJECTS/blob/main/ProjectForDataScience.ipynb) Pandas,Numpy,Scikitlearn, confusion matrix, Jaccard index, F1-score,descision tree classifier.
-### 12. [Taxi Tip Prediction:](https://github.com/GBOL67/DATA-SCIENCE-PROJECTS/blob/main/ProjectForDataScience.ipynb) Pandas,Numpy,Scikitlearn, Decsision Tree Regression, logistic regression, Random Forest.
-### 13. [House Sales In King County:](https://github.com/GBOL67/DATA-SCIENCE-PROJECTS/blob/main/ProjectForDataScience.ipynb) Pandas,Numpy,Scikitlearn, Data transformation, Linear Regression, Rigde Regression, Grid Search.
+### 12. [Taxi Tip Prediction:](https://github.com/GBOL67/DATA-SCIENCE-PROJECTS/blob/main/Regression_Trees.ipynb) Pandas,Numpy,Scikitlearn, Decsision Tree Regression, logistic regression, Random Forest.
+### 13. [House Sales In King County:](https://github.com/GBOL67/DATA-SCIENCE-PROJECTS/blob/main/House_Sales_in_King_Count_USA.ipynb) Pandas,Numpy,Scikitlearn, Data transformation, Linear Regression, Rigde Regression, Grid Search.
 
